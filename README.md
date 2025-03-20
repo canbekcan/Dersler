@@ -10,7 +10,7 @@
 ## Video ve Ses Yapım Teknikleri
 ## Sosyal Medya Veri Madenciliği
 ## Sosyal Medya Planlaması
-## Yeni Medya Ortamında Gazetecilik Uygulamaları
+## [Yeni Medya Ortamında Gazetecilik Uygulamaları](Yeni%20Medya%20ve%20%C4%B0leti%C5%9Fim/Yeni%20Medya%20Ortam%C4%B1nda%20Gazetecilik%20Uygulamalar%C4%B1.md)
 ## Haber Kurgu Teknikleri
 ## Veri Gazeteciliği
 ## Video Haberciliği
