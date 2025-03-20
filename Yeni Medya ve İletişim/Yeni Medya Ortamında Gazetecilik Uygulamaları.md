@@ -6,18 +6,6 @@ Bu ders, çağdaş haberciliğin ve haberciliğin değişen formlarının dijita
 - Teknolojilerin gelişimi ile birlikte gazetecilerden beklenen nitelik ve beceriler nelerdir?
 - Mobil kültürlerde zaman ve mekânın değişen ilişkisi haberciliği nasıl etkiler?
 
-## Bitirme Koşulları
-Ders kapsamında konulara göre alınan sunumların gerçekleştirilmesi, ders içerisindeki akademik tartışmalara katkı sağlanması, sınavdan geçer not alınması ve derse devam zorunluluğunun eksiksiz yerine getirilmesi gerekmektedir.
-
-## Sınavlar ve Projeler
-Ders kapsamında uygulanacak değerlendirmeler
-
-- Vize Sınavı %30
-- Sunum %30
-- Final projesi %40
-
-## Ders İşleniş Biçimi
-Yeni Medya Ortamında Gazetecilik Uygulamaları dersi teorik olarak yürütülecektir. Akademik makaleler ve sunumlarla ders sürdürülecektir.
 
 ## Ders Çıkışları
 Bu dersin sonunda öğrenciler:
