@@ -20,3 +20,26 @@ Ders kapsamında uygulanacak değerlendirmeler
 Yeni Medya Ortamında Gazetecilik Uygulamaları dersi teorik olarak yürütülecektir. Akademik makaleler ve sunumlarla ders sürdürülecektir.
 
 ## Ders Çıkışları
+Bu dersin sonunda öğrenciler:
+
+Çağdaş habercilik ve dijital teknoloji ilişkisini kavrar.
+
+Gazeteciliğin farklı formlarının, dijital teknolojilerin gelişimiyle nasıl değiştiğini analiz edebilirler.
+Yeni medya ortamında gazetecinin rolünü değerlendirir.
+
+Anlam üretiminde gazetecinin rolünün, sosyal medya ve yeni medya platformlarında nasıl yeniden şekillendiğini tartışabilirler.
+Teknolojik gelişmelerin gazetecilik becerilerine etkisini açıklar.
+
+Gazetecilerden beklenen yeni nitelikleri ve becerileri tanımlar, mobil kültür ve dijital araçları kullanarak haber üretebilirler.
+Sosyal medya ve gazetecilik ilişkisini analiz eder.
+
+Sosyal medya kullanıcılarının ve gazetecilerin yeni medya teknolojileriyle nasıl bir etkileşim içinde olduğunu örneklerle gösterebilirler.
+Farklı habercilik türlerinde uzmanlaşır.
+
+Siyaset, ekonomi, spor, magazin, araştırmacı, sağlık, adli ve yorumcu habercilik gibi farklı alanlardaki gazetecilik pratiklerini öğrenir ve uygularlar.
+Mobil kültürlerin habercilik üzerindeki etkilerini yorumlar.
+
+Zaman ve mekân kavramlarının mobil teknolojilerle nasıl değiştiğini ve bunun gazeteciliğe etkilerini analiz ederler.
+Yeni medya ortamında etik ve sorumluluk bilinci geliştirir.
+
+Dijital platformlarda içerik üretirken etik ilkelere ve gazetecilik sorumluluğuna bağlı kalmayı öğrenirler.
